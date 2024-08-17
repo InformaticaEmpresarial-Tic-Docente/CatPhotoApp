@@ -2,8 +2,7 @@ La **Aplicación de Fotos de Gatos** es un proyecto educativo diseñado para ayu
 
 Puedes explorar la aplicación de Fotos de Gatos aquí:
 
-```html
+
 <a href="https://informaticaempresarial-tic-docente.github.io/CatPhotoApp/">Aplicación de Fotos de Gatos</a>
-```
 
 Este enlace te permitirá ver y experimentar con la aplicación directamente.
