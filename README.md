@@ -1,7 +1,9 @@
-La **Aplicación de Fotos de Gatos** es un proyecto educativo diseñado para ayudar a los principiantes a aprender HTML y CSS de una manera divertida y práctica. A través de esta aplicación, los usuarios crean una sencilla galería de fotos de gatos mientras aprenden conceptos básicos como la estructura HTML, el uso de etiquetas, y la aplicación de estilos con CSS. Es un excelente punto de partida para quienes desean comenzar su camino en el desarrollo web.
+La **Aplicación de Fotos de Gatos** de Free Code Camp es un proyecto educativo que introduce a los principiantes en el mundo del desarrollo web. A través de la creación de una galería de fotos de gatos, los usuarios aprenden conceptos fundamentales de HTML y CSS, como la estructura de documentos, etiquetas y estilos básicos. Es una forma divertida y efectiva de comenzar a desarrollar habilidades en programación web.
 
-Puedes explorar la aplicación de Fotos de Gatos aquí:
+Para practicar y continuar aprendiendo, puedes acceder a la plataforma de Free Code Camp en [freecodecamp.org](https://www.freecodecamp.org/).
+
+Explora la aplicación de Fotos de Gatos aquí:
 
 <a href="https://informaticaempresarial-tic-docente.github.io/CatPhotoApp/">Aplicación de Fotos de Gatos</a>
 
-Este enlace te permitirá ver y experimentar con la aplicación directamente.
+
