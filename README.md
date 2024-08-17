@@ -1,6 +1,6 @@
-La **Aplicación de Fotos de Gatos** de Free Code Camp es un proyecto educativo que introduce a los principiantes en el mundo del desarrollo web. A través de la creación de una galería de fotos de gatos, los usuarios aprenden conceptos fundamentales de HTML y CSS, como la estructura de documentos, etiquetas y estilos básicos. Es una forma divertida y efectiva de comenzar a desarrollar habilidades en programación web.
+La **Aplicación de Fotos de Gatos** es un proyecto educativo que introduce a los principiantes en el mundo del desarrollo web. A través de la creación de una galería de fotos de gatos, los usuarios aprenden conceptos fundamentales de HTML y CSS, como la estructura de documentos, etiquetas y estilos básicos. Es una forma divertida y efectiva de comenzar a desarrollar habilidades en programación web.
 
-Para practicar y continuar aprendiendo, puedes acceder a la plataforma de Free Code Camp en [freecodecamp.org](https://www.freecodecamp.org/).
+Para practicar y continuar aprendiendo, puedes acceder a la plataforma de Free Code Camp en [freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
 
 Explora la aplicación de Fotos de Gatos aquí:
 
