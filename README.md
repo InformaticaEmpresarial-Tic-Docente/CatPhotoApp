@@ -6,4 +6,6 @@ Explora la aplicación de Fotos de Gatos aquí:
 
 <a href="https://informaticaempresarial-tic-docente.github.io/CatPhotoApp/">Aplicación de Fotos de Gatos</a>
 
+Además, puedes acceder a todas las soluciones en este PDF:
+[Ver PDF de Soluciones](https://drive.google.com/file/d/1bT4RdBfSRsQEYwpsU_oYk51QKJpw72l3/view?usp=drive_link)
 
